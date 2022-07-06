@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hello git test  hotfix
 =======
-hello git test  hotfix
->>>>>>> hot-fix

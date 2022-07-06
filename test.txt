@@ -1,1 +1,5 @@
-hello git master test
+<<<<<<< HEAD
+hello git test  hotfix
+=======
+hello git test  hotfix
+>>>>>>> hot-fix
